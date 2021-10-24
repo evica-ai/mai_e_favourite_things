@@ -1,23 +1,15 @@
 <p>
-<img src="images/banner_banner.jpg" width="100% style="max-width:100%;">
+<img src="images/home.jpg" width="100% style="max-width:100%;">
 </p>
 
-<h1 text-align="centre">Epiphany</h1>
-We are a start-up marketing studio that beleive in one main ingredient: to transalate customer visions into pixel-perfect applications. We are a team of talented individuals specializing in front-end development. 
+<h1 text-align="centre">My Favourite Things</h1>
+It is often said that the best things in life are free but you'll only acknowledge them once they are lost. This can be said about the vast unhindered sky or the forest air you escape to from the city or the childhood treats, such as indulging in sweet rice dumplings during the Lnatern destival.
 
-Our mission is to envolop the meaning of epiphany into our works. Bring our customer's vision to a new life. We beleive in tuning in on styles beyond the boundaries. 
-We dont want you to just glance and look at our work.
+<h2>Favourtie Things Assignment</h2>
+This is an app that showcases three things I love that is represented via interactive control on the page when the user engages, revealing more info on the sleected favourite item. 
 
-We want you to trust us as your flexible gallery. For front rows to be amazed so DROP ON IN!
-
-<h2>Bootcamp Project</h2>
-This is for the 2021 Bootcamp Project - Advertising StartUp AGency
-
-<h2>Meet the Team:</h2>
+<h2>Meet the Creator:</h2>
 <ul>
-<li>Ashwin Nandakumar <a href="https://github.com/ash674">@ash674</a></li>
-<li>Jiaxu Liu</li>
-<li>Kanak Kumar</li>
 <li>Evica Mai <a href="https://github.com/evica-ai">@evica-ai</a></li>
 </ul>
 
@@ -26,11 +18,10 @@ All you need is a browser with a working Internet connection.
 
 <h3>Built with:</h3>
 <ul>
-<li><a href="https://www.w3.org/TR/2008/WD-html5-20080122/">HTML 5</a></li>
+<li>the interactive controls use the JSON object as the data source via the Fetch API</li>
 <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations">CSS Animations</a></li>
 <li><a href="https://www.w3schools.com/js/DEFAULT.asp">Javascript</a></li>
-<li><a href="https://www.adobe.com/ca/creativecloud/buy/students.html">Adobe After Effects and Illustrator</a></li>
 </ul>
 
 <h3>Usage<h3>
